@@ -2,6 +2,7 @@
 @import "@fontsource-variable/jetbrains-mono";
 @import "@fontsource-variable/montserrat";
 @plugin '@tailwindcss/typography';
+@plugin '@nobie-org/tailwindcss-animate';
 
 @custom-variant dark (&:is(.dark *));
 
